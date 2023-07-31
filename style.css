@@ -1,0 +1,13 @@
+* {
+    align-items: center;
+}
+body{
+    background: linear-gradient(to left, lime, aquamarine)
+}
+button {
+    background-color: blue;
+    color: aliceblue;
+}
+label input button{
+    box-sizing: border-box; block-size: auto;
+}
